@@ -45,18 +45,51 @@
     <img src="https://skillicons.dev/icons?i=c" />
   </a>
   <a href="">
-    <img src="https://skillicons.dev/icons?i=c" />
+    <img src="https://skillicons.dev/icons?i=cpp" />
   </a>
-  <a href="">
-    <img src="https://skillicons.dev/icons?i=c" />
+  <a href="https://www.java.com/en/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=java" />
   </a>
-  <a href="">
-    <img src="https://skillicons.dev/icons?i=c" />
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://skillicons.dev/icons?i=py" />
   </a>
-  <a href="">
-    <img src="https://skillicons.dev/icons?i=c" />
+  <a href="https://www.mysql.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=mysql" />
   </a>
-<!--   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,py,mysql,html,css,tailwind,js,react,redux,mongodb,netlify,figma,firebase,git,github,postman,vercel,vscode" />
-  </a> -->
+   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://skillicons.dev/icons?i=html" />
+  </a>
+   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://skillicons.dev/icons?i=css" />
+  </a>
+   <a href="https://tailwindcss.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=tailwind" />
+  </a>
+   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://skillicons.dev/icons?i=js" />
+  </a>
+   <a href="https://react.dev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=react" />
+  </a>
+   <a href="https://redux.js.org" target="_blank">
+    <img src="https://skillicons.dev/icons?i=redux" />
+  </a>
+   <a href="https://www.mongodb.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=mongodb" />
+  </a>
+   <a href="https://www.figma.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=figma" />
+  </a>
+   <a href="https://firebase.google.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=firebase" />
+  </a>
+   <a href="https://git-scm.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=git" />
+  </a>
+   <a href="https://www.postman.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=postman" />
+  </a>
+   <a href="https://vercel.com/dashboard" target="_blank">
+    <img src="https://skillicons.dev/icons?i=vercel" />
+  </a>
 </p>
