@@ -41,7 +41,22 @@
 ###
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,py,mysql,html,css,tailwind,js,react,redux,mongodb,netlify,figma,firebase,git,github,postman,vercel,vscode" />
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=c" />
   </a>
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=c" />
+  </a>
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=c" />
+  </a>
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=c" />
+  </a>
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=c" />
+  </a>
+<!--   <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,py,mysql,html,css,tailwind,js,react,redux,mongodb,netlify,figma,firebase,git,github,postman,vercel,vscode" />
+  </a> -->
 </p>
