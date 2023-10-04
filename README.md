@@ -40,7 +40,7 @@
 
 ###
 
-<p align="center">
+<p align="left">
   <a href="">
     <img src="https://skillicons.dev/icons?i=c" />
   </a>
