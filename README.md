@@ -41,10 +41,10 @@
 ###
 
 <p align="left">
-  <a href="" >
+  <a href="https://www.w3schools.com/c/c_intro.php" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=c" />
   </a>
-  <a href="">
+  <a href="https://www.w3schools.com/cpp/default.asp" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=cpp" />
   </a>
   <a href="https://www.java.com/en/" target="_blank" rel="noreferrer">
