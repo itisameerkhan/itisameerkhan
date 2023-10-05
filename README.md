@@ -65,6 +65,9 @@
    <a href="https://tailwindcss.com" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=tailwind" />
   </a>
+  <a href="https://mui.com" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=mui" />
+   </a>
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=js" />
   </a>
@@ -88,7 +91,7 @@
   </a>
    <a href="https://www.postman.com" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=postman" />
-  </a>
+   </a>
    <a href="https://vercel.com/dashboard" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=vercel" />
   </a>
