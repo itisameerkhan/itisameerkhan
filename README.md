@@ -77,6 +77,9 @@
    <a href="https://redux.js.org" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=redux" />
   </a>
+  <a href="https://jestjs.io" target="_blank">
+    <img src="https://skillicons.dev/icons?i=jest" />
+  </a>
    <a href="https://www.mongodb.com" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=mongodb" />
   </a>
