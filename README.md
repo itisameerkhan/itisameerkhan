@@ -1,22 +1,5 @@
 ###
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/ameer-khan-b-3784b8216/ins" target="_blank"> 
-    <img width="55" height="55" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/>
-  </a>
-  <a href="https://www.instagram.com/khaan.ax">
-   <img width="55" height="55" src="https://img.icons8.com/fluency/96/instagram-new.png" alt="instagram-new"/>
-  </a>
-  <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJqZhpvWMbjDTZGprjRlKnbtfTXTthDMRnLJTjGWmSNzcmqJdRhxWLZxmXwCZbWwbsBSsZg" target="_blank">
-    <img width="48" height="48" src="https://img.icons8.com/color/48/gmail-new.png" alt="gmail-new"/>
-  </a>
-</div>
-
-###
-<div align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=ameerkhan123ak.ameerkhan123ak&" />
-</div>
-
 <h1 align="center">Hi,👋 I'm Ameer Khan B</h1>
 
 ###
@@ -95,3 +78,6 @@
     <img src="https://skillicons.dev/icons?i=vercel" />
   </a>
 </p>
+<div align="left">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=ameerkhan123ak.ameerkhan123ak&" />
+</div>
