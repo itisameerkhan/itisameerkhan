@@ -1,6 +1,7 @@
 ###
 
 <h1 align="center">Hi,👋 I'm Ameer Khan B</h1>
+![](https://komarev.com/ghpvc/?username=itisameerkhan&color=blue)
 
 ###
 
@@ -79,7 +80,4 @@
   </a>
 </p>
 <br>
-###
-![](https://komarev.com/ghpvc/?username=itisameerkhan&color=green)
-###
 
