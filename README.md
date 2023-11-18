@@ -79,6 +79,6 @@
 </p>
 <br>
 <div align="left">
-  ![](https://komarev.com/ghpvc/?username=itisameerkhan&color=green)
+  ![](https://komarev.com/ghpvc/?username=ameerkhan123ak&color=green)
 </div>
 ![](https://komarev.com/ghpvc/?username=itisameerkhan&color=green)
