@@ -79,5 +79,5 @@
 </p>
 <br>
 <div align="left">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=ameerkhan123ak.ameerkhan123ak&" />
+![](https://komarev.com/ghpvc/?username=itisameerkhan&color=blue)
 </div>
