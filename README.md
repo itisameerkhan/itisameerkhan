@@ -17,6 +17,7 @@
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
+![](https://komarev.com/ghpvc/?username=itisameerkhan&color=green)
 
 <p align="left">
   <a href="https://www.w3schools.com/c/c_intro.php" target="_blank" rel="noreferrer">
@@ -78,7 +79,4 @@
   </a>
 </p>
 <br>
-<div align="left">
-  ![](https://komarev.com/ghpvc/?username=ameerkhan123ak&color=green)
-</div>
-![](https://komarev.com/ghpvc/?username=itisameerkhan&color=green)
+
