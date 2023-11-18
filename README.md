@@ -1,9 +1,9 @@
 ###
 
 <h1 align="center">Hi,👋 I'm Ameer Khan B</h1>
-![](https://komarev.com/ghpvc/?username=itisameerkhan&color=blue)
 
 ###
+![](https://komarev.com/ghpvc/?username=itisameerkhan&color=blue)
 
 <h3 align="left">👩‍💻  About Me</h3>
 
