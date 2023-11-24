@@ -78,9 +78,6 @@
    <a href="https://vercel.com/dashboard" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=vercel" />
   </a>
-  <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=photoshop" />
-  </a>
 </p>
 <br>
 
