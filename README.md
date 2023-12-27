@@ -77,10 +77,7 @@
    </a>
    <a href="https://vercel.com/dashboard" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=vercel" />
-  </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=bash" />
-  </a>
+   </a>
 </p>
 <br>
 
