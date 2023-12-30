@@ -42,8 +42,8 @@
    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=css" />
   </a>
-   <a href="https://tailwindcss.com" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=tailwind" />
+   <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=sass" />
   </a>
   <a href="https://mui.com" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=mui" />
