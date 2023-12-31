@@ -88,7 +88,9 @@
 <h3 align="left">🔗 Social Media Links</h3>
 
 [![CodePen Badge](https://img.shields.io/badge/CodePen-itisameerkhan-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/itisameerkhan)
-[![LeetCode Badge](https://img.shields.io/badge/LeetCode-itisameerkhan-informational?style=flat&logo=LeetCode&logoColor=white&color=FFA116)](https://codepen.io/itisameerkhan)
+[![LeetCode Badge](https://img.shields.io/badge/LeetCode-itisameerkhan-informational?style=flat&logo=LeetCode&logoColor=black&color=FFA116)](https://leetcode.com/itisameerkhan)
+[![CodeSandBox Badge](https://img.shields.io/badge/CodeSandbox-itisameerkhan-000000?style=flat&logo=CodeSandbox&logoColor=white&color=000000)](https://codesandbox.io/invite/zpgzlqhr3z5mvs8d)
+
 
 
 <p align="left">
