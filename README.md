@@ -88,16 +88,13 @@
 <h3 align="left">🔗 Social Media Links</h3>
 <p align="left">
   <a href="codepen.io/itisameerkhan">
-    <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white">
+    <img src="https://img.shields.io/badge/Codepen-000000?style=plastic&logo=codepen&logoColor=white">
   </a>
   <a href='https://leetcode.com/itisameerkhan/'>
-    <img src='https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black'>
+    <img src='https://img.shields.io/badge/-LeetCode-FFA116?style=plastic&logo=LeetCode&logoColor=black'>
   </a>
   <a href='https://www.linkedin.com/in/ameer-khan-b-3784b8216/'>
-    <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'>
-  </a>
-  <a href=''>
-    <img src='https://img.shields.io/badge/Codesandbox-000000?style=for-the-badge&logo=CodeSandbox&logoColor=white'>
+    <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white'>
   </a>
 </p>
 
