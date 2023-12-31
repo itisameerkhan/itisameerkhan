@@ -91,21 +91,5 @@
 [![LeetCode Badge](https://img.shields.io/badge/LeetCode-itisameerkhan-informational?style=flat&logo=LeetCode&logoColor=black&color=FFA116)](https://leetcode.com/itisameerkhan)
 [![CodeSandBox Badge](https://img.shields.io/badge/CodeSandbox-itisameerkhan-000000?style=flat&logo=CodeSandbox&logoColor=white&color=000000)](https://codesandbox.io/invite/zpgzlqhr3z5mvs8d)
 
-
-
-<p align="left">
-  <a href='https://codepen.io/itisameerkhan'>
-    <img src='https://img.shields.io/badge/Codepen-itisameerkhan-000000?style=for-the-badge&logo=codepen&logoColor=white'>
-  </a>
-  <a href='https://leetcode.com/itisameerkhan/'>
-    <img src='https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black'>
-  </a>
-  <a href='https://www.linkedin.com/in/ameer-khan-b-3784b8216/'>
-    <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white'>
-  </a>
-</p>
-
-<br>
-
 ###
 
