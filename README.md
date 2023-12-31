@@ -85,9 +85,10 @@
 </p> 
 
 ###
+[![CodePen Badge](https://img.shields.io/badge/CodePen-itisameerkhan-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/braydoncoyer)
+
 <h3 align="left">🔗 Social Media Links</h3>
 <p align="left">
-  [![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/braydoncoyer)
   <a href='https://codepen.io/itisameerkhan'>
     <img src='https://img.shields.io/badge/Codepen-itisameerkhan-000000?style=for-the-badge&logo=codepen&logoColor=white'>
   </a>
