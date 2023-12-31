@@ -88,7 +88,7 @@
 <h3 align="left">🔗 Social Media Links</h3>
 <p align="left">
   <a href="codepen.io/itisameerkhan">
-    <img src="https://img.shields.io/badge/Codepen-000000?style=flat-square&logo=codepen&logoColor=white">
+    <img src="https://img.shields.io/badge/Codepen-itisameerkhan-000000?style=flat-square&logo=codepen&logoColor=white">
   </a>
   <a href='https://leetcode.com/itisameerkhan/'>
     <img src='https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black'>
