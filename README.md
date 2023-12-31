@@ -86,13 +86,16 @@
 
 ###
 <h3 align="left">🔗 Social Media Links</h3>
-  [![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/braydoncoyer)
 <p align="left">
+  [![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/braydoncoyer)
+  <a href='https://codepen.io/itisameerkhan'>
+    <img src='https://img.shields.io/badge/Codepen-itisameerkhan-000000?style=for-the-badge&logo=codepen&logoColor=white'>
+  </a>
   <a href='https://leetcode.com/itisameerkhan/'>
-    <img src='https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black'>
+    <img src='https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black'>
   </a>
   <a href='https://www.linkedin.com/in/ameer-khan-b-3784b8216/'>
-    <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white'>
+    <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white'>
   </a>
 </p>
 
