@@ -65,6 +65,9 @@
   <a href="https://nodejs.org/en" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=nodejs" />
   </a>
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=express" />
+  </a>
   <a href="https://jestjs.io" target="_blank">
     <img src="https://skillicons.dev/icons?i=jest" />
   </a>
