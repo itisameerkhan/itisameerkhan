@@ -73,7 +73,8 @@
    </a>
 </p> 
 
-![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/1054082724845064282?simple=true)
+![Static Badge](https://img.shields.io/badge/currently-online-29b65b)
+![Static Badge](https://img.shields.io/badge/coding-nothing%20rn-blue?logo=visual-studio-code)
 
 
 
