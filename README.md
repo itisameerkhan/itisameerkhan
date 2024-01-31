@@ -1,26 +1,8 @@
-###
-
-<h1 align="center">Hi,👋 I'm Ameer Khan B</h1>
-
-###
+<h1 align="center">Hi, There!👋 </h1>
 
 ![](https://komarev.com/ghpvc/?username=itisameerkhan&color=blue)
 
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-###
-<p>🎓 I'm a student at Bannari Amman Institute of Technology</p>
-<p>⚡ Studying Electrical and Electronics Engineering</p>
-<p>🔭 My aspiration is to become a Software Engineer in Front-end and Back-end Technologies</p>
-<p>🌱 Currently exploring Web Technologies</p>
-<p>📩 You can reach me at <a href="">itisameerkhan@gmail.com</a></p>
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
+**I'm Ameer khan B** - Driven Electrical Engineering student  with a passion for software development . Currently exploring the MERN stack and actively seeking opportunities to learn and grow in the dynamic IT industry . Open to connect and collaborate with fellow tech enthusiasts !
 
 <p align="left">
   <a href="https://www.w3schools.com/c/c_intro.php" target="_blank" rel="noreferrer">
@@ -90,8 +72,6 @@
     <img src="https://skillicons.dev/icons?i=vercel" />
    </a>
 </p> 
-
-### 
 
 
 
