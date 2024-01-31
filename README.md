@@ -73,5 +73,8 @@
    </a>
 </p> 
 
+![Online Status](https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/1054082724845064282?simple=true)
+
+
 
 
