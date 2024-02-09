@@ -74,7 +74,7 @@
 </p> 
 
 ![Static Badge](https://img.shields.io/badge/currently-online-29b65b)
-![Static Badge](https://img.shields.io/badge/coding-nothing%20rn-blue?logo=visual-studio-code)
+![Static Badge](https://img.shields.io/badge/coding-book%20store-blue?logo=visual-studio-code)
 ![Static Badge](https://img.shields.io/badge/lines%20of%20code-86952-blue?logo=react&logoColor=white&color=606cea)
 
 
