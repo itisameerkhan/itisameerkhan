@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=itisameerkhan&color=blue)
 
-**I'm Ameer khan B** - Driven Electrical Engineering student  with a passion for software development. Currently exploring the MERN stack and actively seeking opportunities to learn and grow in the dynamic IT industry . Open to connect and collaborate with fellow tech enthusiasts!.
+**I'm Ameer khan B** - Driven Electrical Engineering student  with a passion for software development. Currently exploring the MERN stack and actively seeking opportunities to learn and grow in the dynamic IT industry . Open to connect and collaborate with fellow tech enthusiasts!
 
 <p align="left">
   <a href="https://www.w3schools.com/c/c_intro.php" target="_blank" rel="noreferrer">
