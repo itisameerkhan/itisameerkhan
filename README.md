@@ -78,5 +78,3 @@
 ![Static Badge](https://img.shields.io/badge/lines%20of%20code-86952-blue?logo=react&logoColor=white&color=606cea)
 
 
-
-
