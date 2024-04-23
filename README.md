@@ -1,4 +1,6 @@
 <h1 align="left">Hi, There!👋 </h1>
+![](https://komarev.com/ghpvc/?username=itisameerkhan&color=blue)
+
 
 **I'm Ameer khan B** - Driven Electrical Engineering student  with a passion for software development. Currently exploring the MERN stack and actively seeking opportunities to learn and grow in the dynamic IT industry . Open to connect and collaborate with fellow tech enthusiasts! 
 
@@ -74,4 +76,3 @@
 ![Static Badge](https://img.shields.io/badge/currently-online-29b65b)
 ![Static Badge](https://img.shields.io/badge/coding-nothing%20rn-blue?logo=visual-studio-code)
 ![Static Badge](https://img.shields.io/badge/lines%20of%20code-86952-blue?logo=react&logoColor=white&color=606cea)
-![](https://komarev.com/ghpvc/?username=itisameerkhan&color=blue)
