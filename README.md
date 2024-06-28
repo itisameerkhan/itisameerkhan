@@ -72,7 +72,7 @@
    <a href="https://vercel.com/dashboard" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=vercel" />
    </a>
-</p> 
+</p>  
 
 ![Static Badge](https://img.shields.io/badge/currently-online-29b65b)
 ![Static Badge](https://img.shields.io/badge/coding-nothing%20rn-blue?logo=visual-studio-code) 
