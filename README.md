@@ -65,12 +65,6 @@
   </a>
    <a href="https://git-scm.com" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=git" />
-  </a>
-   <a href="https://www.postman.com" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=postman" />
-   </a>
-   <a href="https://vercel.com/dashboard" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=vercel" />
    </a>
 </p>  
 
