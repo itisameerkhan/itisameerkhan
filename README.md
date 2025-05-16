@@ -66,6 +66,9 @@
    <a href="https://git-scm.com" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=git" />
    </a>
+  <a href="https://www.docker.com" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=docker" />
+   </a>
 </p>  
 
 ![Static Badge](https://img.shields.io/badge/currently-online-29b65b)
