@@ -40,7 +40,7 @@
     <img src="https://skillicons.dev/icons?i=react" />
   </a>
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=reactnative" />
+    <img src="https://skillicons.dev/icons?i=react-native" />
   </a>
    <a href="https://redux.js.org" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=redux" />
