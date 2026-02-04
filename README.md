@@ -54,6 +54,9 @@
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=aws" />
   </a>
+  <a href="https://portal.azure.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=azure" />
+  </a>
    <a href="https://www.mongodb.com" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=mongodb" />
   </a>
