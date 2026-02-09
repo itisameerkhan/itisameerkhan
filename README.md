@@ -60,6 +60,9 @@
    <a href="https://www.mongodb.com" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=mongodb" />
   </a>
+  <a href="https://redis.io/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=redis" />
+  </a>
    <a href="https://www.figma.com" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=figma" />
   </a>
