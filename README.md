@@ -72,6 +72,9 @@
    <a href="https://git-scm.com" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=git" />
    </a>
+  <a href="https://nginx.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=nginx" />
+   </a>
   <a href="https://www.docker.com" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=docker" />
    </a>
