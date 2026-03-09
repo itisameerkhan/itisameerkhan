@@ -78,6 +78,9 @@
   <a href="https://www.docker.com" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=docker" />
    </a>
+  <a href="https://www.kubernetes.io" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=kubernetes" />
+   </a>
 </p>  
 
 ![Static Badge](https://img.shields.io/badge/currently-online-29b65b)
