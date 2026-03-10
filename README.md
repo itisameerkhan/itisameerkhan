@@ -1,6 +1,6 @@
 <h1 align="left">Hi, There!👋 </h1>
 
-**I'm Ameer khan B** - Driven Electrical Engineering with a passion for software development. Currently exploring the MERN stack and actively seeking opportunities to learn and grow in the dynamic IT industry . Open to connect and collaborate with fellow tech enthusiasts! 
+I'm **Ameer Khan**, a passionate Software Engineer dedicated to building impactful applications and software. Focused on creating meaningful solutions and contributing to open-source projects while collaborating with developers and growing within the ever-evolving tech industry.
 
 <p align="left">
   <a href="https://www.w3schools.com/c/c_intro.php" target="_blank" rel="noreferrer">
