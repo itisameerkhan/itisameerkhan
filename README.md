@@ -1,6 +1,7 @@
 <h1 align="left">Hi, There!👋 </h1>
 
-I'm **Ameer Khan**, a passionate Software Engineer dedicated to building impactful applications and software. Focused on creating meaningful solutions and contributing to open-source projects while collaborating with developers and growing within the ever-evolving tech industry.
+I'm **Ameer Khan**, a Software Engineer passionate about building impactful applications and software, contributing to open-source, and collaborating with developers to create meaningful solutions.
+
 
 <p align="left">
   <a href="https://www.w3schools.com/c/c_intro.php" target="_blank" rel="noreferrer">
