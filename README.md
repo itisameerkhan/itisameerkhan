@@ -70,6 +70,9 @@ I'm **Ameer Khan**, a Software Engineer passionate about building impactful appl
    <a href="https://firebase.google.com" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=firebase" />
   </a>
+   <a href="https://supabase.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=supabase" />
+  </a>
    <a href="https://git-scm.com" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=git" />
    </a>
